@@ -7,7 +7,7 @@ from PIL import  Image
 st.title('Cat Dog Classifier')
 
 #Step 1 : Load the model
-model=load_model('cats_dogs_small_3.h5')
+model=load_model('cats_dogs_small_2.h5')
 
 
 # Step2: Load the image to predict
